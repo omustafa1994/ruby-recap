@@ -9,7 +9,7 @@ This application demonstrates how OOP works using Ruby, through the use of inher
 ### How to download
 1. Clone the Git repo
 2. Open the files and run index.html file
-3. You will now be able to use the web application!
+3. You will now be able to run the web application!
 
 ### Challenges
 1. N/A
