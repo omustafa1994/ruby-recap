@@ -1,7 +1,7 @@
 # RSpec Calculator
 
 ### Description
-This application demonstrates a working understanding of RSpec 
+This application demonstrates a working understanding of RSpec.
 
 ### Languages used
 * Ruby
